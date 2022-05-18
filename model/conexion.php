@@ -12,7 +12,7 @@
         public function __construct(){
             $this -> host   ="localhost";
             $this -> drive  ="mysql";
-            $this -> base   ="2256256";
+            $this -> base   ="adsi2256256";
             $this -> user   ="root";
             $this -> pass   ="";
             $this -> url    = $this -> drive . ":host=" 
