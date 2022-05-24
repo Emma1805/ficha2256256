@@ -33,6 +33,7 @@
             return $con;
         }//END GETCONECT
     }//END CLASS
-    //$objCon = new Conexion();
-    //$objCon -> getConect();
+
 ?>
+
+probando
