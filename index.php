@@ -6,11 +6,19 @@
     require_once 'controller/user.controller.php';
     require_once 'controller/template.controller.php';
 
-require pan pimbo
+
+    /////////////////////////////////////////////
+    //                   MODEL                 //
+    /////////////////////////////////////////////
+    require_once 'model/dao/user.dao.php';
+    require_once 'model/dto/user.dto.php';
+    
+
     /////////////////////////////////////////////
     //                 CONEXION                //
     /////////////////////////////////////////////
     require_once 'model/conexion.php';
+
 
 
         /////////////////////////////////////////////
@@ -25,3 +33,5 @@ require pan pimbo
     $objRun->getIntro();
     
 ?>
+
+3x3
