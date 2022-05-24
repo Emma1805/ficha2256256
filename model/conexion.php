@@ -31,9 +31,15 @@
 
             }//END TRY
             return $con;
+
         }//END GETCONECT
     }//END CLASS
 
 ?>
 
-probando
+
+        }
+    }
+
+?>
+
